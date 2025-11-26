@@ -1,4 +1,4 @@
-# DiscreteSpatialDiffusion
+# Discrete Spatial Diffusion
 
 **Codebase for:**  
 **_Discrete Spatial Diffusion: Intensity-Preserving Diffusion Modeling_**  
