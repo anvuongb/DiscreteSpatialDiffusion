@@ -6,7 +6,7 @@ import os
 import glob
 import torch
 
-from full_model import DiffusionModel
+from train import DiffusionModel
 from faster_diffusion_dataset import full_diffusion_dataset
 
 import time as timex
